@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">PromoDJ Radio</string>
+
+    <array name="radioNameList">
+        <item>TOP 100</item>
+        <item>Channel 5</item>
+        <item>Klubb</item>
+        <item>Dubstep</item>
+        <item>Nu</item>
+        <item>Too Nu</item>
+        <item>Yo</item>
+        <item>Full Moon</item>
+        <item>Vata</item>
+        <item>300kmh</item>
+        <item>186mph</item>
+        <item>Deep</item>
+        <item>Too Deep</item>
+        <item>Mini</item>
+        <item>Pop</item>
+        <item>Old-School</item>
+        <item>Strange</item>
+        <item>Brainfck</item>
+        <item>Bobina</item>
+        <item>DJ GROOVE</item>
+    </array>
+    <array name="radioUrlList">
+        <item>http://radio.promodj.com:8000/top100</item>
+        <item>http://radio.promodj.com:8000/channel5</item>
+        <item>http://radio.promodj.com:8000/klubb</item>
+        <item>http://radio.promodj.com:8000/dubstep</item>
+        <item>http://radio.promodj.com:8000/nu</item>
+        <item>http://radio.promodj.com:8000/toonu</item>
+        <item>http://radio.promodj.com:8000/yo</item>
+        <item>http://radio.promodj.com:8000/fullmoon</item>
+        <item>http://radio.promodj.com:8000/vata</item>
+        <item>http://radio.promodj.com:8000/300kmh</item>
+        <item>http://radio.promodj.com:8000/186mph</item>
+        <item>http://radio.promodj.com:8000/deep</item>
+        <item>http://radio.promodj.com:8000/toodeep</item>
+        <item>http://radio.promodj.com:8000/mini</item>
+        <item>http://radio.promodj.com:8000/pop</item>
+        <item>http://radio.promodj.com:8000/oldschool</item>
+        <item>http://radio.promodj.com:8000/strange</item>
+        <item>http://radio.promodj.com:8000/brainfck</item>
+        <item>http://radio.promodj.com:8000/bobina</item>
+        <item>http://radio.promodj.com:8000/groove</item>
+    </array>
+</resources>
