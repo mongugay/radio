@@ -23,11 +23,16 @@ public class PDRadioModel {
      */
     private String _url  = "";
 
+    public String get_img() {
+        return _img;
+    }
+
     private String _img = "";
 
-    public PDRadioModel(String name, String url)
+    public PDRadioModel(String name, String url, String img)
     {
         this._name = name;
         this._url  = url;
+        this._img  = img;
     }
 }

@@ -47,7 +47,7 @@ public class PDMainActivity extends AppCompatActivity {
         _radios = new PDRadioModel[_radioNameList.length];
         for (int i = 0; i < _radioNameList.length; ++i)
         {
-            PDRadioModel model = new PDRadioModel(_radioNameList[i], _radioUrlList[i]);
+            PDRadioModel model = new PDRadioModel(_radioNameList[i], _radioUrlList[i], "");
             _radios[i] = model;
         }
 
